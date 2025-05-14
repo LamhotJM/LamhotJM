@@ -27,13 +27,6 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Senior SDET
-**Kforce Inc** (Clients: HP & Paramount) | Los Angeles Metro | *Nov 2022 – Present*
-- Architected end-to-end frameworks for HP & Paramount applications
-- Developed cross-browser UI & API suites (Selenium, Cypress, Playwright) in CI/CD
-- Built Grafana & Allure dashboards, cutting defect detection time by **50%**
-- **Achievements:** Raised coverage to **90%**, slashed regression cycles by **40%**, boosted pipeline stability by **70%**
-
 ### 🍎 SDET (via INSPYR Solutions)
 **Apple** | Sunnyvale, CA | *Nov 2021 – Nov 2024*
 - Designed REST Assured/TestNG suites for enterprise‐grade API validation
