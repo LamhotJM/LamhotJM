@@ -47,6 +47,7 @@
 
 ## 📂 Recent Projects
 
+- **CRUD + Search Android App using Kotlin, local database using Room** [Repo](https://github.com/LamhotJM/crud-notes-kotlin)
 - **TypeScript & Cypress‑Cucumber BDD**  
   Custom TS BDD framework with ESBuild, Page Objects & env configs.  
   [Repos](https://github.com/LamhotJM?tab=repositories)
