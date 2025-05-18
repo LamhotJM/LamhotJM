@@ -47,6 +47,7 @@
 
 ## 📂 Recent Projects
 
+- **Automate Android mobile testing using Appium, Java, TestNG, and Cucumber BDD** [Repo](https://github.com/LamhotJM/appium-bdd-java)
 - **CRUD + Search Android App using Kotlin, local database using Room** [Repo](https://github.com/LamhotJM/crud-notes-kotlin)
 - **TypeScript & Cypress‑Cucumber BDD**  
   Custom TS BDD framework with ESBuild, Page Objects & env configs.  
