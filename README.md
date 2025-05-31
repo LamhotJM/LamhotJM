@@ -27,7 +27,7 @@
 
 ## 💼 Professional Experience
 
-### 🍎 SDET (via INSPYR Solutions)
+### 🍎 SDET
 **Apple** | Sunnyvale, CA | *Nov 2021 – Nov 2024*
 - Designed REST Assured/TestNG suites for enterprise‐grade API validation
 - Automated iOS (XCUITest) & web (Playwright) tests, achieving **95%** coverage
