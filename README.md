@@ -27,18 +27,18 @@
 
 ## 💼 Professional Experience
 
-### 🍎 SDET
+### SDET
 **Apple** | Sunnyvale, CA | *Nov 2021 – Nov 2024*
 - Designed REST Assured/TestNG suites for enterprise‐grade API validation
 - Automated iOS (XCUITest) & web (Playwright) tests, achieving **95%** coverage
 - Centralized QA insights with ReportPortal.io, reducing flaky failures by **60%**
 
-### 🔬 Software Test Engineer II
+### Software Test Engineer II
 **Dexcom, Inc.** | San Diego, CA | *Jul 2020 – Jun 2021*
 - Led FDA compliance testing and firmware validation for medical devices
 - Authored audit-ready documentation; elevated test coverage to **80%**
 
-### 🌍 Senior SDET
+### Senior SDET
 **PT Bukalapak** | Jakarta, Indonesia | *Nov 2016 – Sep 2019*
 - Built REST API automation (RestAssured, Postman) and Selenium frameworks (Cucumber, POM)
 - Mentored QA teams; presented automation at Selenium & Appium Conference in Tokyo
