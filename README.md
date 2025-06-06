@@ -1,6 +1,6 @@
 # Hi there, I’m Lamhot Siagian 👋
 
-**Senior SDET | QA Engineer | Automation Lead**
+**SDET | Fullstack Test Engineer | AI-Driven Test Automation | Quality Engineering | PhD Student | Device & Mobile Test | Playwright | Cypress | Appium | CI /CD | AWS GCP Cloud Test**
 
 ---
 
