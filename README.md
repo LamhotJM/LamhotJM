@@ -1,12 +1,4 @@
 # 👨‍💻 Lamhot Siagian
-
-📍 Austin, TX  
-📧 lamhot.id@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lamhotsiagian)  
-🔗 [GitHub](https://github.com/LamhotJM)
-
----
-
 ## 💡 Summary
 
 - 🔄 **Cross-Industry Automation Leadership**: Over 9 years of driving end-to-end test automation across finance, banking, healthcare, retail, medical devices, and e-commerce, delivering scalable frameworks and reducing release cycles.
@@ -86,32 +78,11 @@
 **Achievements**:
 - 🚀 Promoted to Senior SDET (youngest on Core QA team)
 - 🌏 Attended Selenium Conference Tokyo
-
----
-
-## 📂 Projects
-
-- 🤖 **Android Mobile Automation**: Appium, Java, TestNG, Cucumber BDD
-- 🌐 **Cypress BDD Framework**: TypeScript, ESBuild, Page Objects
-- 🎭 **Playwright BDD**: Java, JUnit5, CI/CD
-- 🌐 **API Automation**: RestAssured, Gherkin, Jenkinsfile, GitHub Action
-- 🧪 **Spring TDD**: Cucumber BDD, H2 DB, Spring Boot
-- 📱 **Android App (Kotlin)**: CRUD & Search using Room
-
 ---
 
 ## 🌍 Communities & Contributions
-
 - 📘 **Publications**:
     - *End to End API Testing* (2024), Leanpub
     - *Software Test Automation* (2018), ISBN: 978-602-475-707-6
 - ✍️ **Blogs**: 2M+ views on Medium & LinkedIn
-- 🌐 **GitHub Projects**:
-    - [Appium BDD](https://github.com/LamhotJM/appium-bdd-java)
-    - [Cypress BDD](https://github.com/LamhotJM/cypress-bdd)
-    - [Playwright BDD](https://github.com/LamhotJM/playwright-bdd)
-    - [API Testing](https://github.com/LamhotJM/api-bdd-testing)
-    - [Spring TDD](https://github.com/LamhotJM/integration-test-spring-rest-api)
-    - [CRUD Notes Kotlin](https://github.com/LamhotJM/crud-notes-kotlin)
-
 ---
